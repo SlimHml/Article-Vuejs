@@ -1,6 +1,7 @@
 ![alt text](./images/vuelogo.png)
+###Introduction
 
-### Historique
+### Les composants
 
 VueJS s'inscrit dans l'ère du SPA, pour **_Single Page Application_**, qui s'étend de 2010 à nos jours et offre la possibilité de créer des composants réutilisables au sein même de l'application ou dans d'autres !
 Ils permettent de créer une hiérarchisation via des relations parents / enfants
